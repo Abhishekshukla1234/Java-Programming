@@ -4,7 +4,7 @@ public class function11 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in) ;
         int  X = sc.nextInt();
-        System.out.println("Enter the integer(Program end if enter 0):");
+        System.out.println("Enter the integer:");
         int [] data = new int [X];
         for (int i = 0; i<data.length; i++ ){
             System.out.println("Enter the Number "+(i+1));
