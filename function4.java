@@ -14,7 +14,7 @@ public class function4 {
         System.out.println(factorial);
         return;
     }
-    public static void main(String[] args) {
+    public static void main(Strings[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         printFactorial(n);

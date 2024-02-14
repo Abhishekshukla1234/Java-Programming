@@ -1,14 +1,14 @@
 import java.util.Scanner;
 
 public class function {
-    public static void printMyName(String name){
+    public static void printMyName(Strings name){
         System.out.println(name);
         return ;
     }
 
-    public static void main(String[] args) {
+    public static void main(Strings[] args) {
         Scanner sc = new Scanner(System.in);
-        String name = sc.next();
+        Strings name = sc.next();
         printMyName(name);// call function
     }
 }

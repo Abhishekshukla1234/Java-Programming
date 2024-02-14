@@ -11,7 +11,7 @@ public class function9 {
         return age;
     }
 
-    public static void main(String[] args) {
+    public static void main(Strings[] args) {
         Scanner sc = new Scanner(System.in);
         int age = sc.nextInt();
         CheckEligible(age);

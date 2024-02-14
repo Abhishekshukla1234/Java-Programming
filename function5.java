@@ -6,7 +6,7 @@ public class function5 {
         int avg = (a+b+c)/2;
         return avg;
     }
- public static void main(String[] args) {
+ public static void main(Strings[] args) {
     Scanner sc = new Scanner(System.in);
     int a = sc.nextInt();
     int b = sc.nextInt();

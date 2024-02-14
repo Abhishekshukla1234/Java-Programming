@@ -6,7 +6,7 @@ public class function8 {
         float d = (2*(22/7)*r);
         return d;
     }
-    public static void main(String[] args) {
+    public static void main(Strings[] args) {
         Scanner sc = new Scanner(System.in);
         float r = sc.nextFloat();
     

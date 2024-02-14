@@ -8,7 +8,7 @@ public class Function10 {
         }while(i>=0);
         return i;
     }
-    public static void main(String[] args) {
+    public static void main(Strings[] args) {
         Scanner sc = new Scanner(System.in);
         int i = sc.nextInt();
         InfinteLoop(i);
