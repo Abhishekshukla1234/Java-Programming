@@ -4,7 +4,6 @@ public class Strings4 {
         String sentence = "AbhishekShukla";
         String name = sentence.substring(4,5);
         System.out.println(name);
-
     
     }
 }
